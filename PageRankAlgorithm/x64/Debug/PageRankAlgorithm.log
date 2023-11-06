@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\hecto\source\Programming\Projects\PageRankAlgorithm\PageRankAlgorithm\AList.h(163,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  PageRankAlgorithm.vcxproj -> C:\Users\hecto\source\Programming\Projects\PageRankAlgorithm\x64\Debug\PageRankAlgorithm.exe
